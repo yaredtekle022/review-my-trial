@@ -1,0 +1,21 @@
+main {
+	background-color: #eeeeee;
+}
+img-div {
+	background-color: white;
+}
+image {
+	background-color: white;
+}
+h3 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+li {
+position: center;
+}
